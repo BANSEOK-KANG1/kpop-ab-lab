@@ -1,0 +1,10 @@
+sources:
+  - name: soompi
+    domain: soompi.com
+    url: "https://www.soompi.com/feed"
+  - name: koreaboo
+    domain: koreaboo.com
+    url: "https://www.koreaboo.com/feed/"
+  - name: allkpop
+    domain: allkpop.com
+    url: "https://www.allkpop.com/rss"
